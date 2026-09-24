@@ -1,0 +1,1 @@
+- [Python 가상환경 (venv)](python-venv.md) — venv가 필요한 이유(Node와 비교), .venv 구조, activate가 PATH/PS1을 바꾸는 원리, 중복 venv 정리

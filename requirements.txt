@@ -1,0 +1,5 @@
+neuprint-python
+pandas
+numpy
+scipy
+networkx
